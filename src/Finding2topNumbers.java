@@ -16,8 +16,8 @@ public class Finding2topNumbers {
 
         public static void main(String[] args){
             int[] numbers = {11,22,45,92,21,54,79,11};
-            Finding2topNumbers tmn = new Finding2topNumbers();
-            tmn.printTwoTop2Numbers(numbers);
+            Finding2topNumbers topnums = new Finding2topNumbers();
+            topnums.printTwoTop2Numbers(numbers);
         }
     }
 
